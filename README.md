@@ -1,4 +1,4 @@
-![image](https://github.com/0error-scripts/aicore_binoculars/assets/22198949/b647808d-dab5-491e-bb45-590b2a2033c5)
+![image](https://github.com/aicore-fivem/aicore_binoculars/assets/22198949/b647808d-dab5-491e-bb45-590b2a2033c5)
 
 # aicore_binoculars
 

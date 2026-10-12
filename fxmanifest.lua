@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'aicore_binoculars'
-repository 'https://github.com/0error-scripts/aicore_binoculars'
+repository 'https://github.com/aicore-fivem/aicore_binoculars'
 version '1.1.1'
 
 shared_script '@ox_lib/init.lua'
